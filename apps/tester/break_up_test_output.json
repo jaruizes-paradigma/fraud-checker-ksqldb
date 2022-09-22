@@ -1,0 +1,8 @@
+{
+  "outputs": [
+    {"topic": "movements_online", "key": "c2", "value": {"ID":"case_2-m1","AMOUNT":10.00,"ORIGIN":3,"SITE":"site1","DEVICE":"","CREATEDAT":"2022-09-23 11:47:05 CEST"}},
+    {"topic": "movements_online", "key": "c2", "value": {"ID":"case_2-m2","AMOUNT":90.00,"ORIGIN":3,"SITE":"site2","DEVICE":"","CREATEDAT":"2022-09-23 11:47:15 CEST"}},
+    {"topic": "movements_online", "key": "c2", "value": {"ID":"case_2-m3","AMOUNT":200.00,"ORIGIN":3,"SITE":"site3","DEVICE":"","CREATEDAT":"2022-09-23 11:47:35 CEST"}},
+    {"topic": "movements_online", "key": "c2", "value": {"ID":"case_2-m4","AMOUNT":100.00,"ORIGIN":3,"SITE":"site4","DEVICE":"","CREATEDAT":"2022-09-23 11:47:55 CEST"}}
+  ]
+}
